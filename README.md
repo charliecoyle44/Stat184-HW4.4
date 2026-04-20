@@ -14,3 +14,22 @@ In this repository, there is my submission for STAT 184 HW 4.4
 ## Main File
 
 In this assignment the main file is my pdf from assignment 4.3
+
+## DATA SOURCE
+All the data used for this assignment was provided in the course materials
+
+## Plan/Goal
+
+The plan and goal of this homework assignemnet is to present my prior work in the form of a public repository
+
+## Organizaion
+
+README.md: Overveiw and explination of repository
+PDF : File from HW 4.3 HW submission
+
+## Contact Info
+
+Name: Charlie Coyle
+Course: STAT 184
+Email: cmc8269@psu.edu
+
