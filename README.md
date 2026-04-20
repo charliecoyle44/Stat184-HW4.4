@@ -5,3 +5,5 @@ edit was made on the dev branch file for the branching section
 
 ## Assignment
 In this repository, there is my work that contains HW 4.3 for STat 184
+
+Added pdf from 4.3 to the repository
